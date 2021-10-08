@@ -15,5 +15,5 @@ group :development, :test do
   gem "factory_bot_rails", "~> 4.8.2"
   gem "pry"
   gem "rspec-rails"
-  gem "rubocop"
+  gem 'rubocop-performance'
 end
